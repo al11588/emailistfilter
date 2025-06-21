@@ -6,11 +6,11 @@ and saves them to a new file with commas separating each email.
 
 Before text: 
 
-![Before text image]()
+![Before text image](https://raw.githubusercontent.com/al11588/emailistfilter/refs/heads/main/Before%20Text%20Image.png)
 
 After text:
 
-![After text image]()
+![After text image](https://raw.githubusercontent.com/al11588/emailistfilter/refs/heads/main/After%20Text%20Image.png)
 
 # Programming Stack: 
 
